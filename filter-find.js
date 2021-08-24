@@ -23,7 +23,7 @@ const expensive = products.filter(product => product.price > 100);
 const blacks = products.filter(product => product.color == 'black');
 console.log(blacks);
 
-// Filter it return all properties (element character) as array [ ].. if emptty says empty 
+// Filter it return an array containing alll matching elements [ ]. if emptty says empty 
 
 // Find it return just element { } .. if empty says undefined 
 

@@ -21,6 +21,8 @@ const [p, q] = [34, 45];
 
 const { sky, color } = { sky: 'blue', soil: 'mati', color: 'nil' };
 
+console.log(sky);
+
 
 
 
